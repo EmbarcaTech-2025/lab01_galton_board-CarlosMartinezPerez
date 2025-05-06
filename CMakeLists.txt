@@ -64,4 +64,3 @@ target_link_libraries(lab-01-galton-board
         )
 
 pico_add_extra_outputs(lab-01-galton-board)
-
